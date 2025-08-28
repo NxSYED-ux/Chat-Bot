@@ -1,0 +1,58 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Logs
+logs
+*.log
+*.log.*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build outputs
+dist/
+build/
+.cache/
+.next/
+out/
+temp/
+tmp/
+
+# IDE / Editor stuff
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files (never commit secrets!)
+.env
+.env.local
+.env.*.local
+
+# Coverage / testing
+coverage/
+.nyc_output/
+
+# TypeScript
+*.tsbuildinfo
+
+# Misc
+*.tgz
+*.tar.gz
+
+# Optional if using Docker
+docker-compose.override.yml
