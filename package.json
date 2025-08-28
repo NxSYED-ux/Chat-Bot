@@ -7,7 +7,7 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "keywords": ["chatbot", "express", "openai"],
+  "keywords": ["chatbot", "express", "openai", "Ollama", "Mistral/Mixtral"],
   "author": "https://github.com/NxSYED-ux",
   "license": "ISC",
   "description": "An open chatbot backend using Express",

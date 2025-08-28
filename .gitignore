@@ -56,3 +56,5 @@ coverage/
 
 # Optional if using Docker
 docker-compose.override.yml
+Dockerfile
+.docker/
